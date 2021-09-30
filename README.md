@@ -42,7 +42,7 @@ This predictive model will allow us to schedule and improve the cost-effectivene
 
 I also obtained valuable insights from the data that detects potential causes for water pumps malfunctioning to achieve future improvements.
 
-**For an in-depth view of this analysis, you can check the final project report included in this repository**
+**For an in-depth view of this analysis, you can check the final project report included in this repository and the code notebook**
 
 **This project is focused on Tanzania but might be applied to other countries and regions if we had the necessary data**
 
