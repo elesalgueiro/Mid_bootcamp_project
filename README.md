@@ -1,7 +1,7 @@
 # Tanzania Water Project
 
-
 PREDICTING WATER PUMPS FUNCTIONALITY IN TANZANIA
+![]()
 
 Have you ever wonder what it would be to live without a day to day access to clean water? Well,  I can tell you it would be a huge problem with very serious implications for your survival…
 We can say that the lack of access to water is one of the biggest problems in the world.
