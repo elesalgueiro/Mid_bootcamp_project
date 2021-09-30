@@ -1,12 +1,14 @@
 # Tanzania Water Project
 
 PREDICTING WATER PUMPS FUNCTIONALITY IN TANZANIA
-![]()
+
+![](https://github.com/elesalgueiro/Tanzania_Water_Project/blob/main/tw-water-crisis.jpg)
 
 Have you ever wonder what it would be to live without a day to day access to clean water? Well,  I can tell you it would be a huge problem with very serious implications for your survival…
 We can say that the lack of access to water is one of the biggest problems in the world.
 
 According to a report by the World Economic Forum, the water crisis is the #5 global risk in terms of impact on society and it is a health, education, economic, and gender equity crisis. 
+
 For my mid-project in the Data Analyst Bootcamp at Ironhack I decided to work on finding possible solutions that can contribute to solving the problem of the lack of access to safe water.
 
 ### Background
@@ -40,7 +42,7 @@ This predictive model will allow us to schedule and improve the cost-effectivene
 
 I also obtained valuable insights from the data that detects potential causes for water pumps malfunctioning to achieve future improvements.
 
-*For an in-depth view of this analysis, you can check the final project report included in this repository*
+**For an in-depth view of this analysis, you can check the final project report included in this repository**
 
-*This project is focused on Tanzania but could be applied to other countries and regions*
+**This project is focused on Tanzania but might be applied to other countries and regions if we had the necessary data**
 
